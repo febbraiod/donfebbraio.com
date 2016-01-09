@@ -1,0 +1,181 @@
+@media only screen and (max-width: 1250px) {
+  .wrapper {
+    width: 40%;
+    left: 7%;
+  }
+
+  #navbar {
+    width: 100%;
+  }
+
+
+}
+
+
+
+@media only screen and (max-width: 1000px) {
+
+  #navbar {
+    font-size: 80%;
+    width: 100%;
+  }
+
+  #navbar nav a {
+  display: inline-block;
+  width: 10%;
+
+  }
+
+  #navbar_home {
+    font-size: 80%;
+    width: 50%;
+  }
+
+  .logo_type {
+  position: absolute;
+  top: 43%;
+  left: 50%;
+  font-size: 100%;
+  }
+
+  .logo_type_not_home {
+    font-size: 80%;
+
+  }
+
+  #donpic {
+  position: fixed;
+  top: 33px;
+  left: 40px;
+  z-index: 2;
+  width: 110px;
+
+}
+
+.wrapper {
+    width: 47%;
+    left: 5%;
+  }
+
+
+}
+
+@media only screen and (max-width: 800px) {
+  #navbar {
+    font-size: 80%;
+    width: 100%;
+  }
+
+  #navbar_home {
+    font-size: 80%;
+    width: 60%;
+  }
+
+  .logo_type {
+  position: absolute;
+  top: 43%;
+  left: 40%;
+  }
+
+  .logo_type_not_home {
+    font-size: 75%;
+  }
+
+  #donpic {
+  position: fixed;
+  top: 35px;
+  left: 35px;
+  z-index: 2;
+  width: 100px;
+  }
+
+ .wrapper {
+    width: 47%;
+    left: 5%;
+  }
+
+
+}
+
+@media only screen and (max-width: 750px) {
+  #navbar {
+    font-size: 80%;
+    width: 100%;
+    left: 10%;
+  }
+
+  #navbar_home {
+    font-size: 80%;
+    width: 70%;
+    left: 10%;
+  } 
+
+  .logo_type {
+    position: absolute;
+    top: 30%;
+    left: 15%;
+    font-size: 100%;
+  }
+
+  .logo_type_not_home {
+    display: none;
+  }
+
+  .wrapper {
+    width: 55%;
+    left: 0%;
+  }
+
+}
+
+@media only screen and (max-width: 700px) {
+  #navbar {
+    font-size: 70%;
+    width: 100%;
+    left: 10%;
+  }
+
+  #navbar_home {
+    font-size: 80%;
+    width: 80%;
+    left: 10%;
+  }
+
+  .logo_type {
+  position: absolute;
+  top: 30%;
+  left: 15%;
+  font-size: 100%;
+  }
+
+  .wrapper {
+    width: 55%;
+    left: 2%;
+  }
+
+}
+
+
+@media only screen and (max-width: 640px) {
+  #navbar {
+    font-size: 60%;
+    width: 100%;
+    left: 10%;
+  }
+
+  #navbar_home {
+    font-size: 80%;
+    width: 90%;
+    left: 10%;
+  }
+
+  .logo_type {
+  position: absolute;
+  top: 20%;
+  left: 15%;
+  font-size: 100%;
+  }
+
+
+}
+
